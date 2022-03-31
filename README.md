@@ -60,6 +60,8 @@ Der Inhalt der Datei erscheint
 Button: importiere die Datenbank
 die Datei wird eingelesen und die Datensätze an das Ende der Datenbank geschrieben
 ```
+Link zur Webseite zur Erzeugung der Importdatei: https://java-crypto.github.io/AndroidCrypto/PasswordManager/passwordmanager_database_import_v1.html
+
 
 
 https://gitlab.com/andreaslinke/secretdiary
